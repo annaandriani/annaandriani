@@ -1,29 +1,22 @@
-
 {
-   "user": {
-   
-       "age": 25,
+          "age": 25,
+
+          "nome": "Anna",
+
+          "hobbies": {
        
-       "nome": "Anna"
-   },
-   
-   
-   "hobbies": [
-       {
-       
-           "music": ["rap", "hi-hop", "funk", "pop"],
-           
-           "dance": "null",
-           
-           "study": ["programming", "biology"],
+              "music": ["rap", "hi-hop", "funk", "pop"],
+
+              "dance": "null",
+
+              "study": ["programming", "biology"],
        },
-       
-       
-    "animals":[
+              
+          "animals":{
     
-          "cats": ["Miguel", "Valentina", "Pandora"]
-          
-          "dogs": ["Melissa", "Thobias"]
-   ]
+             "cats": ["Miguel", "Valentina", "Pandora"],
+
+             "dogs": ["Melissa", "Thobias"]
+    }
 }
-}
+
