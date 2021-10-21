@@ -1,6 +1,6 @@
 {
 
-          "nome": "Anna",
+          "name": "Anna",
    
           "age": 25,
 
