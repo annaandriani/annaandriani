@@ -15,7 +15,7 @@
            
            "dance": "null",
            
-           "study": ["programming", "biology"]
+           "study": ["programming", "biology"],
        },
        
        
@@ -25,4 +25,5 @@
           
           "dogs": ["Melissa", "Thobias"]
    ]
+}
 }
