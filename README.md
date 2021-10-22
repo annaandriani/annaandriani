@@ -1,23 +1,23 @@
-{
+json{
 
           "name": "Anna",
-   
+
           "age": 25,
 
           "hobbies": {
-       
-              "music": ["rap", "hi-hop", "funk", "pop"],
 
-              "dance": "null",
+                    "music": ["rap", "hi-hop", "funk", "pop"],
 
-              "study": ["programming", "biology"],
-       },
-              
+                    "dance": "null",
+
+                    study": ["programming", "biology"],
+        },
+
           "animals":{
-    
-             "cats": ["Miguel", "Valentina", "Pandora"],
 
-             "dogs": ["Melissa", "Thobias"]
-    }
+                    "cats": ["Miguel", "Valentina", "Pandora"],
+
+                    "dogs": ["Melissa", "Thobias"]
+              }
 }
-
+```
