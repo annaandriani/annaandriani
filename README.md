@@ -1,4 +1,4 @@
-```json{
+```json {
 
           "name": "Anna",
 
@@ -10,7 +10,7 @@
 
                     "dance": "null",
 
-                    study": ["programming", "biology"],
+                    "study": ["programming", "biology"],
         },
 
           "animals":{
@@ -19,5 +19,5 @@
 
                     "dogs": ["Melissa", "Thobias"]
               }
-}
+
 ```
