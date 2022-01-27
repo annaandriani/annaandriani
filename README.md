@@ -15,7 +15,7 @@
 
           "animals":{
 
-                    "cats": ["Miguel", "Valentina", "Pandora"],
+                    "cats": ["Miguel", "Valentina", "Pandora", "Cristal"],
 
                     "dogs": ["Melissa", "Thobias"]
               }
